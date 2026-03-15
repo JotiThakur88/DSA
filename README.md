@@ -61,9 +61,14 @@ LEET TO GITHUB
 | [0012-integer-to-roman](https://github.com/JotiThakur88/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/JotiThakur88/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/DSA/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/JotiThakur88/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
