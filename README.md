@@ -28,6 +28,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/JotiThakur88/DSA/tree/main/0015-3sum/) | Medium |
+| [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,8 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
