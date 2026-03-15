@@ -36,6 +36,7 @@ LEET TO GITHUB
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/JotiThakur88/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
