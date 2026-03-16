@@ -46,6 +46,7 @@ LEET TO GITHUB
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/JotiThakur88/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/JotiThakur88/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
@@ -57,6 +58,7 @@ LEET TO GITHUB
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
@@ -83,6 +85,7 @@ LEET TO GITHUB
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
