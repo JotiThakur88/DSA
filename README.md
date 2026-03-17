@@ -14,6 +14,7 @@ LEET TO GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JotiThakur88/DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/JotiThakur88/DSA/tree/main/0136-single-number/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
