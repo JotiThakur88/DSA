@@ -16,6 +16,7 @@ LEET TO GITHUB
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/JotiThakur88/DSA/tree/main/0136-single-number/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
 ## Bit Manipulation
@@ -62,6 +63,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -103,4 +105,5 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JotiThakur88/DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
