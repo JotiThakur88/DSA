@@ -70,6 +70,7 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ LEET TO GITHUB
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/JotiThakur88/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JotiThakur88/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -117,4 +119,5 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/JotiThakur88/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 <!---LeetCode Topics End-->
