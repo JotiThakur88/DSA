@@ -23,6 +23,7 @@ LEET TO GITHUB
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JotiThakur88/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1470-shuffle-the-array](https://github.com/JotiThakur88/DSA/tree/main/1470-shuffle-the-array/) | Easy |
+| [1539-kth-missing-positive-number](https://github.com/JotiThakur88/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JotiThakur88/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ LEET TO GITHUB
 | [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JotiThakur88/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/JotiThakur88/DSA/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
