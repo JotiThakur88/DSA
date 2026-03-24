@@ -21,6 +21,7 @@ LEET TO GITHUB
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/JotiThakur88/DSA/tree/main/0136-single-number/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JotiThakur88/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1470-shuffle-the-array](https://github.com/JotiThakur88/DSA/tree/main/1470-shuffle-the-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/JotiThakur88/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Bit Manipulation
@@ -33,6 +34,7 @@ LEET TO GITHUB
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/JotiThakur88/DSA/tree/main/0704-binary-search/) | Easy |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JotiThakur88/DSA/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
