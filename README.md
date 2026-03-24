@@ -64,6 +64,7 @@ LEET TO GITHUB
 | [0012-integer-to-roman](https://github.com/JotiThakur88/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/JotiThakur88/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/JotiThakur88/DSA/tree/main/2652-sum-multiples/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -78,6 +79,7 @@ LEET TO GITHUB
 | [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/JotiThakur88/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
