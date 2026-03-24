@@ -15,6 +15,7 @@ LEET TO GITHUB
 | [0027-remove-element](https://github.com/JotiThakur88/DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/JotiThakur88/DSA/tree/main/0136-single-number/) | Easy |
@@ -108,4 +109,8 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JotiThakur88/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JotiThakur88/DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
