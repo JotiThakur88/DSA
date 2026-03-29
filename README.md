@@ -30,6 +30,7 @@ LEET TO GITHUB
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/JotiThakur88/DSA/tree/main/0136-single-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -69,6 +70,7 @@ LEET TO GITHUB
 | [0009-palindrome-number](https://github.com/JotiThakur88/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/JotiThakur88/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/JotiThakur88/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/JotiThakur88/DSA/tree/main/2652-sum-multiples/) | Easy |
@@ -99,6 +101,7 @@ LEET TO GITHUB
 | [0020-valid-parentheses](https://github.com/JotiThakur88/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JotiThakur88/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/JotiThakur88/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JotiThakur88/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -132,4 +135,8 @@ LEET TO GITHUB
 | [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/JotiThakur88/DSA/tree/main/0051-n-queens/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
