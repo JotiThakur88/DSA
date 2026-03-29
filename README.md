@@ -97,6 +97,7 @@ LEET TO GITHUB
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/JotiThakur88/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/JotiThakur88/DSA/tree/main/1922-count-good-numbers/) | Medium |
 ## Memoization
@@ -137,6 +138,7 @@ LEET TO GITHUB
 | [0002-add-two-numbers](https://github.com/JotiThakur88/DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JotiThakur88/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/JotiThakur88/DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/JotiThakur88/DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
