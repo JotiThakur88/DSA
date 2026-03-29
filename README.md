@@ -10,6 +10,7 @@ LEET TO GITHUB
 | [0011-container-with-most-water](https://github.com/JotiThakur88/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/JotiThakur88/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/JotiThakur88/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/JotiThakur88/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/JotiThakur88/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JotiThakur88/DSA/tree/main/0027-remove-element/) | Easy |
@@ -54,6 +55,7 @@ LEET TO GITHUB
 | [0005-longest-palindromic-substring](https://github.com/JotiThakur88/DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/JotiThakur88/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/JotiThakur88/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/JotiThakur88/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/JotiThakur88/DSA/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JotiThakur88/DSA/tree/main/0027-remove-element/) | Easy |
@@ -64,6 +66,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/JotiThakur88/DSA/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/JotiThakur88/DSA/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/JotiThakur88/DSA/tree/main/0018-4sum/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/JotiThakur88/DSA/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Math
