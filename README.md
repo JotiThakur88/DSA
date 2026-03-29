@@ -17,6 +17,7 @@ LEET TO GITHUB
 | [0033-search-in-rotated-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JotiThakur88/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/JotiThakur88/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/JotiThakur88/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/JotiThakur88/DSA/tree/main/0051-n-queens/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JotiThakur88/DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -152,6 +153,7 @@ LEET TO GITHUB
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/JotiThakur88/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/JotiThakur88/DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/JotiThakur88/DSA/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/JotiThakur88/DSA/tree/main/0051-n-queens/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
