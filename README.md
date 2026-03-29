@@ -73,6 +73,7 @@ LEET TO GITHUB
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/JotiThakur88/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/JotiThakur88/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/JotiThakur88/DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [1922-count-good-numbers](https://github.com/JotiThakur88/DSA/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/JotiThakur88/DSA/tree/main/2652-sum-multiples/) | Easy |
@@ -107,6 +108,7 @@ LEET TO GITHUB
 | [0125-valid-palindrome](https://github.com/JotiThakur88/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/JotiThakur88/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/JotiThakur88/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JotiThakur88/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Trie
