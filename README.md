@@ -56,6 +56,7 @@ LEET TO GITHUB
 | [0026-remove-duplicates-from-sorted-array](https://github.com/JotiThakur88/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/JotiThakur88/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JotiThakur88/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/JotiThakur88/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ LEET TO GITHUB
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JotiThakur88/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/JotiThakur88/DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/JotiThakur88/DSA/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/JotiThakur88/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JotiThakur88/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
