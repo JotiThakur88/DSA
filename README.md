@@ -50,6 +50,7 @@ LEET TO GITHUB
 | [0003-longest-substring-without-repeating-characters](https://github.com/JotiThakur88/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/JotiThakur88/DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/JotiThakur88/DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0205-isomorphic-strings](https://github.com/JotiThakur88/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@ LEET TO GITHUB
 | [0131-palindrome-partitioning](https://github.com/JotiThakur88/DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/JotiThakur88/DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/JotiThakur88/DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0205-isomorphic-strings](https://github.com/JotiThakur88/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/JotiThakur88/DSA/tree/main/0344-reverse-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/JotiThakur88/DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Trie
